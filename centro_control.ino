@@ -1,5 +1,5 @@
 /*
-  Configuración de conexion WiFi y MQTT via Bluetooth
+  Centro de control - Automatizacion de Semaforos
   Autor: Ing. Moreno Lucas Omar  
   Año: 2020
 */
